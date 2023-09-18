@@ -11,8 +11,6 @@ You can see the topics below:
 * ESXi DCUI - Failed Logins
 * ESXCLI commands executed
 * vCenter / ESXi - Anomaly Detection Filters & Dashboards
-
-
 ```
 
 ## How can i use ?

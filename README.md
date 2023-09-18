@@ -1,5 +1,19 @@
 # VMware Aria Operations for Logs
 Dashboards, queries, alerts content for Aria Operations for Logs (formerly known vRealize Log Insight)
+You can see the topics below:
+
+```
+* vCenter HTML Client - Failed Logins
+* vCenter SSH - Failed Logins
+* vCenter PowerCLI - Failed Logins
+* ESXi HTML Client - Failed Logins
+* ESXi SSH - Failed Logins
+* ESXi DCUI - Failed Logins
+* ESXCLI commands executed
+* vCenter / ESXi - Anomaly Detection Filters & Dashboards
+
+
+```
 
 ## How can i use ?
 
@@ -7,7 +21,7 @@ Dashboards, queries, alerts content for Aria Operations for Logs (formerly known
 
 ### Prerequisites
 
-You need following software and versions to use scripts.
+You need following software and versions to working with related dashboards/queries.
 
 ```
 * VMware Aria Operations for Logs (*Tested with version 8.12.0)

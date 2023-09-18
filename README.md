@@ -39,10 +39,11 @@ Aria Operations for Logs - vCenter/ESXi Anomaly Dashboards
 ![2023-09-18_17-27-39](https://github.com/vmbro/Aria-Operations-for-Logs/assets/6716206/9d4174a1-1acc-44fa-80c3-4bf3ecee0542)
 
 
-## More details about scripts
+## More details about dashboards & queries
 
-You can visit my blog for.. and more detailed information.
+You can visit my blog for more detailed information.
 
+[Aria Operations for Logs #1 vCenter Failed Logins](https://vmbro.com/aria-operations-for-logs-1-vcenter-html-failed-login/) and more detailed information.
 
 
 ## License

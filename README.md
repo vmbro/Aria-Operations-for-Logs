@@ -9,7 +9,7 @@ You can see the topics below:
 * ESXi HTML Client - Failed Logins
 * ESXi SSH - Failed Logins
 * ESXi DCUI - Failed Logins
-* ESXCLI commands executed
+* ESXCLI Commands Executed
 * vCenter / ESXi - Anomaly Detection Filters & Dashboards
 ```
 

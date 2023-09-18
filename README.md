@@ -10,7 +10,7 @@ Dashboards, queries, alerts content for Aria Operations for Logs (formerly known
 You need following software and versions to use scripts.
 
 ```
-* VMware Aria Operations for Logs 8.12.0
+* VMware Aria Operations for Logs (*Tested with version 8.12.0)
 ```
 ## Example
 

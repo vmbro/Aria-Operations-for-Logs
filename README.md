@@ -13,9 +13,6 @@ You can see the topics below:
 * vCenter / ESXi - Anomaly Detection Filters & Dashboards
 ```
 
-## How can i use ?
-
-..
 
 ### Prerequisites
 

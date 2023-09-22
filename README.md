@@ -12,7 +12,7 @@ You can see the topics below:
 * ESXCLI Commands Executed
 * vCenter / ESXi - Anomaly Detection Filters & Dashboards
 ```
-You can also find this content pack at here -> [developer.vmware.com](https://)
+You can also find this content pack at here -> 
 
 
 

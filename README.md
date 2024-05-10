@@ -12,7 +12,7 @@ You can see the topics below:
 * ESXCLI Commands Executed
 * vCenter / ESXi - Anomaly Detection Filters & Dashboards
 ```
-You can also find this content pack at here -> [developer.vmware.com](https://developer.vmware.com/samples/8209/vmware-security-dashboard?h=Sample)
+You can also find this content pack at here -> [developer.vmware.com](https://community.broadcom.com/developer-portal/viewdocument/vmware-security-dashboard)
 
 
 
